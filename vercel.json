@@ -7,10 +7,6 @@
         "config": {
           "distDir": "dist"
         }
-      },
-      {
-        "src": "/static/(.*)",
-        "dest": "/static/$1"
       }
     ],
     "routes": [
